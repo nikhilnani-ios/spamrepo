@@ -1,0 +1,24 @@
+{
+  "name": "spam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "npm lite server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilnani-ios/spamrepo.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilnani-ios/spamrepo/issues"
+  },
+  "homepage": "https://github.com/nikhilnani-ios/spamrepo#readme"
+}
